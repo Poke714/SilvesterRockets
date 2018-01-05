@@ -1,0 +1,7 @@
+name: SilvesterRockets
+author: Poke714
+version: 1.1
+
+commands:
+  silvesterrockets:
+    usage: /sr <start [count] [radius] [interval] / stop>
